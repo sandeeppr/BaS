@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+
+.para {
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	font-size:12px;
+	text-align:justify;
+	text-decoration:none;
+	line-height:18px;
+	color:#464646;	
+}
+.menu_nav {
+	font-family:Arial, Verdana, Helvetica, sans-serif;
+	font-size:14px;
+	text-align:justify;
+	text-decoration:none;
+	line-height:18px;
+	color:#fff;	
+}
+
+.heading {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 18px;
+	color:#292c33;
+}
+
+.subheading_link {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 18px;
+	color:#fff;
+}
+.subheading1 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 18px;
+	color:#8a0c02;
+}
+.subheading2 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 18px;
+	color:#ee3222;
+}
+.subheading3 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 18px;
+	text-decoration:none;
+	color:#454545;
+}
+
+.copyright {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 18px;
+	color: #ffffff;
+}
